@@ -104,7 +104,7 @@ The GNU GPL is the most widely used free software license and has a strong copyl
 | Distribution | | Disclose Source |
 | Private Use | | Same License |
 
-## GNU Lesser General Public License v2.1
+### GNU Lesser General Public License v2.1
 
 Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
 
